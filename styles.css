@@ -1,0 +1,4 @@
+.library-title::before {
+  content: 'hicard Library';
+  /* その他のスタイル */
+}
